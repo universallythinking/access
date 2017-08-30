@@ -538,5 +538,5 @@ h6,
 @media only screen and (min-width: 768px) {
 section#msg-box8-c {
     background-size: contain;
-    padding-bottom: 140px;
+    padding-bottom: 140px !important;
   }}
