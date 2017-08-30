@@ -530,6 +530,9 @@ h6,
 #form2-f .mbr-section-subtitle {
   color: #a0a0a0;
 }
+#header3-d {
+  background-color: rgb(255, 255, 255) !important;
+}
 @media only screen and (max-width: 768px) {
 .image-size .mbr-figure {
     padding-top: 3px;
