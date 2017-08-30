@@ -530,3 +530,8 @@ h6,
 #form2-f .mbr-section-subtitle {
   color: #a0a0a0;
 }
+@media (max-width: 800px) {
+.image-size .mbr-figure {
+    padding-top: 3px;
+    display: none !important;
+}}
