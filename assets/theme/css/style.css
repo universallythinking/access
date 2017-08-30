@@ -812,7 +812,11 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
     .mbr-table-md-up .mbr-table-cell {
       display: table-cell; }
     .mbr-table-md-up .mbr-table-cell + .mbr-table-cell {
-      padding-top: 0; } }
+      padding-top: 0; } 
+.image-size .mbr-figure {
+    padding-top: 3px;
+    display: none !important;
+}}
 .mbr-figure {
   display: block;
   margin: 0;
