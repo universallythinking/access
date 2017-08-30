@@ -535,3 +535,8 @@ h6,
     padding-top: 3px;
     display: none !important;
 }}
+@media only screen and (min-width: 768px) {
+section#msg-box8-c {
+    background-size: contain;
+    padding-bottom: 140px;
+  }}
